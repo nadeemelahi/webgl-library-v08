@@ -1,2 +1,2 @@
 # webgl-library-v08
-webgl library - version 08 - adding image loading and rending scripts
+webgl library - version 08 - added image loading and rending scripts
